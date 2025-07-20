@@ -55,15 +55,10 @@ Dynamo nodes for Alibre Design.
 - Configuration editing
 - Parameter editing
 - Create and delete sketches
+- Create and delete features
 - Access and visualize part data for other workflows and tools
 
 ---
 ## Installation
 
 TBD
-
----
-## Development & Support
-- **Author:** Stephen S Mitchel
-- **License:** MIT
-- For issues or requests, visit the project's GitHub Issues page.
